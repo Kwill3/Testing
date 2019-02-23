@@ -7,6 +7,7 @@ remember to save your files to have the latest updates.
 to add, type 'git add (name of file you want to add into github)'
 to commit, type 'git commit -m "(insert message here)"
 to push, type 'git push origin master'
+to remove, type 'git rm (file name)'
 
 Run
 
